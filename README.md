@@ -1,1 +1,1 @@
-# JMJ_AI_Projects
+# JMJ_Document_QA_assistant
